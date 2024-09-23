@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\corte1\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|solutionrelative:corte1\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|c:\\users\\mario\\downloads\\corte1\\corte1\\corte1\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|solutionrelative:corte1\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|c:\\users\\mario\\downloads\\corte1\\corte1\\corte1\\registro de edades - mjco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|solutionrelative:corte1\\registro de edades - mjco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|c:\\users\\mario\\downloads\\corte1\\corte1\\corte1\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|solutionrelative:corte1\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|c:\\users\\mario\\downloads\\corte1\\corte1\\corte1\\registro de edades - mjco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|solutionrelative:corte1\\registro de edades - mjco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AD4B67F-381B-41CA-A1A4-8E1B4741791A}|Corte1\\Corte1.csproj|C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\corte1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +35,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Operacion.cs",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Operacion.cs",
-              "RelativeDocumentMoniker": "Corte1\\Operacion.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Operacion.cs",
-              "RelativeToolTip": "Corte1\\Operacion.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:25:20.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Registro.cs",
               "RelativeDocumentMoniker": "Corte1\\Registro.cs",
               "ToolTip": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Registro.cs",
               "RelativeToolTip": "Corte1\\Registro.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T14:18:49.541Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Operacion.cs",
+              "RelativeDocumentMoniker": "Corte1\\Operacion.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Operacion.cs",
+              "RelativeToolTip": "Corte1\\Operacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:25:20.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro de edades - MJCO.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Registro de edades - MJCO.cs",
+              "RelativeDocumentMoniker": "Corte1\\Registro de edades - MJCO.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Registro de edades - MJCO.cs",
+              "RelativeToolTip": "Corte1\\Registro de edades - MJCO.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADgvzoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:38:59.856Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Persona.cs",
               "RelativeDocumentMoniker": "Corte1\\Persona.cs",
@@ -69,12 +89,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Form1.cs",
-              "RelativeDocumentMoniker": "Corte1\\Form1.cs",
-              "ToolTip": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Corte1\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 3,
+              "Title": "Registro de edades - MJCO.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Registro de edades - MJCO.cs",
+              "RelativeDocumentMoniker": "Corte1\\Registro de edades - MJCO.cs",
+              "ToolTip": "C:\\Users\\mario\\Downloads\\Corte1\\Corte1\\Corte1\\Registro de edades - MJCO.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Corte1\\Registro de edades - MJCO.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T14:13:32.243Z",
               "EditorCaption": " [Dise\u00F1o]"
